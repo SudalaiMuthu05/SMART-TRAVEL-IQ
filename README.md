@@ -351,7 +351,7 @@ stb/                                      ← Project root
 [![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1L_OU4cTmTeEGHMpwkux6qmy9shFmcwKb/view?usp=sharing)
 
 ```
-Demo Video: [INSERT DEMO VIDEO LINK]
+Demo Video:https://drive.google.com/file/d/1L_OU4cTmTeEGHMpwkux6qmy9shFmcwKb/view?usp=sharing
 ```
 
 ---
@@ -361,17 +361,17 @@ Demo Video: [INSERT DEMO VIDEO LINK]
 [![Pitch Video](https://img.shields.io/badge/▶_Watch_Pitch-4285F4?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1TrNQUVfoZtBah2pP710RZXU_LiEvOy5X/view?usp=sharing)
 
 ```
-Pitch Video: [INSERT PITCH VIDEO LINK]
+Pitch Video:https://drive.google.com/file/d/1TrNQUVfoZtBah2pP710RZXU_LiEvOy5X/view?usp=sharing
 ```
 
 ---
 
 ## Presentation
 
-[![Presentation](https://img.shields.io/badge/📊_View_Slides-FF7139?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://your-presentation-link-here)
+[![Presentation](https://img.shields.io/badge/📊_View_Slides-FF7139?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://drive.google.com/file/d/1TrNQUVfoZtBah2pP710RZXU_LiEvOy5X/view?usp=sharing)
 
 ```
-Presentation: [INSERT SLIDES / PPT LINK]
+Presentation:https://drive.google.com/file/d/1TrNQUVfoZtBah2pP710RZXU_LiEvOy5X/view?usp=sharing
 ```
 
 ---
@@ -428,3 +428,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 *SmartRoute AI — Because every journey deserves intelligence.*
 
 </div>
+
