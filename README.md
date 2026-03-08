@@ -368,10 +368,10 @@ Pitch Video:https://drive.google.com/file/d/1TrNQUVfoZtBah2pP710RZXU_LiEvOy5X/vi
 
 ## Presentation
 
-[![Presentation](https://img.shields.io/badge/📊_View_Slides-FF7139?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://drive.google.com/file/d/1TrNQUVfoZtBah2pP710RZXU_LiEvOy5X/view?usp=sharing)
+[![Presentation](https://img.shields.io/badge/📊_View_Slides-FF7139?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://docs.google.com/presentation/d/1d9IS9DPHSKUB60X8g-3BeQYuMP1ez0fy/edit?usp=sharing&ouid=105030629873188116507&rtpof=true&sd=true)
 
 ```
-Presentation:https://drive.google.com/file/d/1TrNQUVfoZtBah2pP710RZXU_LiEvOy5X/view?usp=sharing
+Presentation:https://docs.google.com/presentation/d/1d9IS9DPHSKUB60X8g-3BeQYuMP1ez0fy/edit?usp=sharing&ouid=105030629873188116507&rtpof=true&sd=true
 ```
 
 ---
@@ -428,4 +428,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 *SmartRoute AI — Because every journey deserves intelligence.*
 
 </div>
+
 
